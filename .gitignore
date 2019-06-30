@@ -1,0 +1,4 @@
+# Ignore File for local repor landing-zone-test
+# Ignore these file types:
+*.zip
+*.7z
